@@ -1,4 +1,4 @@
-# Almacenamiento
+# ALMACENAMIENTO
 
 Noticias y reportajes sobre almacenamiento TI para las Empresas y Administraciones Públicas. Os lo contamos todo lo relacionado con el almacenamiento en esta sección de la revista Byte TI
 

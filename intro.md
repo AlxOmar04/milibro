@@ -1,11 +1,6 @@
-#   CARETAS CHUVICLAN
+#   byte
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
-
-Check out the content pages bundled with this sample book to see more.
+Publicaciones Informáticas MKM, S.L. fue fundada en el año 2000. En un principio empezó con la Revista BYTE, que en la actualidad ha pasado a ser la Revista Byte TI. A posteriori han ido naciendo nuevas publicaciones y otros servicios de interés, como ISV Magazine, Developer TI, BIOTECH Magazine o Diario Informático.
 
 ```{tableofcontents}
 ```

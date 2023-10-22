@@ -4,6 +4,7 @@
 format: jb-book
 root: intro
 chapters:
-- file: home
 - file: almacenamiento
-- file: notebooks
+- file: aplicaciónpractica
+- file: automatización
+- file: bigdata
