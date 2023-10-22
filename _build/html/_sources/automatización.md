@@ -1,4 +1,4 @@
-# AUTOMATIZACIÓN
+# ALMACENAMIENTO
 
 ## ¿Qué impide la transición de la automatización a la digitalización?
 
